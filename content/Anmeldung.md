@@ -1,6 +1,5 @@
 +++
 anmeldung_ = "Sbfsee"
-draft = true
 
 +++
 Anmeldung
