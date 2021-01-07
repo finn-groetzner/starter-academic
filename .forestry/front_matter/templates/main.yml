@@ -1,6 +1,20 @@
 ---
 label: Main
 hide_body: false
-fields: []
+fields:
+- name: anmeldung_
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Sbfsee
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: 'Anmeldung '
+  description: Wählen sie einen Kurs
 pages:
 - content/Anmeldung.md
